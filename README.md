@@ -28,3 +28,134 @@ Conducted Stakeholder relations and the development of party games. \
 Conducted Stakeholder relations and the development team, improving the game retention and revenue culminating in an acquisition by a major investor while keeping the development team and Intellectual Property. \
 [Market Boss](https://play.google.com/store/apps/details?id=com.izyplay.supermarketidle&hl=pt) \
 Conducted the Web Porting process enabling the company to accrue revenue from different sources.
+
+## Tools 🛠️ 
+
+<img
+  align="left"
+  alt="Android Studio"
+  title="Android Studio"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Unity"
+  title="Unity"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Unreal"
+  title="Unreal"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Jira"
+  title="Jira"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Figma"
+  title="Figma"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+/>
+
+<img
+  align="left"
+  alt="Selenium"
+  title="Selenium"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Postman"
+  title="Postman"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+
+<img
+  align="left"
+  alt="JSON"
+  title="JSON"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Swagger"
+  title="Swagger"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
+/>
+
+<img
+  align="left"
+  alt="SQL"
+  title="SQL"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Apple"
+  title="Apple"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Android"
+  title="Android"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Git"
+  title="Git"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+
+          
