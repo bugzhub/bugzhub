@@ -19,7 +19,7 @@ I enjoy solving problems creatively, improving processes, and making sure every 
 ## My contributions 🕹️ 
 
 [Fatal Run 2089 - Atari](https://store.steampowered.com/app/2542310/Fatal_Run_2089/) \
-Conducted initial Stakeholder relations and provided development process consultancy, instructing the team on processes and best practices./
+Conducted initial Stakeholder relations and provided development process consultancy, instructing the team on processes and best practices. \
 [Amazon Warriors](https://games.guerreirosdaamazonia.com.br/) \
 Conducted Stakeholder relations and the development of educational games and a web platform. \
 [Never Have I Ever](https://inillc.com/products/mobile-games/) \
